@@ -9,3 +9,13 @@
 h2 {
     border: solid, darkolivegreen;
 }
+
+body {
+    background-image: url("images/toddlerbottom.jpg");
+    background-color: #cccccc;
+    background-position: bottom;
+   }
+
+   footer {
+       text-align: bottom right;
+   }
